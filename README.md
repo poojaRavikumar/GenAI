@@ -1,2 +1,1 @@
-# GenAI
-project sample
+# DigiTech AI Chatbot
